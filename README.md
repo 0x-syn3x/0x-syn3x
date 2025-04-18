@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=00FF41&width=435&lines=Exploring+the+digital+shadows;Breaking+things+to+make+them+stronger;0xDEADBEEF+%7C+0xCAFEBABE" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Hack&pause=1000&color=00FF41&width=435&lines=Exploring+the+digital+shadows;Breaking+things+to+make+them+stronger;0x_syn3x+%7C+BlackSigil" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
   Ghost in the Shell
 </h2>
 
-I'm **[`0xcoffin`](https://twitter.com/0x_syn3x)**, a red teamer & malware archaeologist. By day I hunt bugs, by night I reverse engineer the matrix. My tools of choice? A debugger, a disassembler, and way too much caffeine.
+I'm **[`0x-syn3x`](https://twitter.com/0x_syn3x)**, a red teamer & malware archaeologist. By day I hunt bugs, by night I reverse engineer the matrix. My tools of choice? A debugger, a disassembler, and way too much caffeine.
 
 <details>
   <summary>🕵️‍♂️ Dossier</summary>
@@ -70,7 +70,7 @@ I'm **[`0xcoffin`](https://twitter.com/0x_syn3x)**, a red teamer & malware archa
 
  Recent 0-days discovered
 void pwn() {
-    printf("[+] CVE-2023-XXXX: Linux kernel LPE\n");
+    printf("[+] CVE-2023-XXXX: Linux kernel LPE\n"); 
     printf("[+] CVE-2023-YYYY: IoT RCE chain\n");
     printf("[*] 0day in wild: Under investigation\n");
 }
